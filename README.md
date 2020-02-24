@@ -6,7 +6,6 @@
  This submission is to be used within the general terms of service of the Human Brain Project (HBP). In particular, users should not download the following code if they intend to make a military use of it.
 
 ## Repository Structure
-.
 * 3D Printing
 	* STL_Files
 	* Parts List
