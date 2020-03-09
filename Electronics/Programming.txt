@@ -1,0 +1,7 @@
+STM32CubeProgrammer
+-UART (8E1)
+--Baudrate:	57600
+--Parity:	Even
+
+Communication
+Baudrate: 1000000
