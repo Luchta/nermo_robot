@@ -10,7 +10,7 @@
 	* STL_Files
 	* Parts List
 * Electronics
-	* Eagle
+	* Eagle Files
 	* Parts List
 * Nermo User Manual.pdf
 * README.md
