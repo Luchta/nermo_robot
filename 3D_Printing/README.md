@@ -6,21 +6,23 @@
 ## STLs to be 3D Printed
 
 * Body
-	* Body Coil (2)
-	* Body Solarplexus (1)
-	* Tail (1)
+	* Body Coil (2 pcs)
+	* Body Solarplexus (1 pcs)
+	* Tail (1 pcs)
 * Head
-	* Head (1)
-	* Head Camera mount (1)
-	* Head Neck (1)
+	* Head (1 pcs)
+	* Head Camera mount (1 pcs)
+	* Head Neck (1 pcs)
 * Legs
-	* Hip (4)
-	* Leg Coil (4)
-	* Leg Fore Left (1)
-	* Leg Fore Right (1)
-	* Leg Hind Left (1)
-	* Leg Hind Right (1)
-	* Leg Hind Linkage (2)
+	* Hip (4 pcs)
+	* Leg Coil (4 pcs)
+	* Leg Fore Left (1 pcs)
+	* Leg Fore Right (1 pcs)
+	* Leg Hind Left (1 pcs)
+	* Leg Hind Right (1 pcs)
+	* Leg Hind Linkage (2 pcs)
+*Servos
+	* Magnet_holder
 
 
 ## License
